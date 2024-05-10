@@ -23,7 +23,7 @@ This project is a User Data Management System built using React. It allows users
 1. Start the development server:
 `npm start`
 
-This will start the application on `http://localhost:3000` by default.
+   This will start the application on `http://localhost:3000` by default.
 
 3. Open your web browser and navigate to `http://localhost:3000` to view the application.
    

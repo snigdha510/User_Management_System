@@ -1,4 +1,3 @@
-// src/App.js
 import React, { useState, useEffect } from 'react';
 import { fetchUsers, searchUsers } from './services/UserService'; 
 import UserTable from './components/UserTable';

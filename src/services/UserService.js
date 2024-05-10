@@ -1,5 +1,3 @@
-// src/services/UserService.js
-
 const BASE_URL = 'https://dummyjson.com/users';
 
 const fetchUsers = async () => {

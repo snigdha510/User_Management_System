@@ -1,0 +1,25 @@
+/* src/components/UserTable.css */
+.table-wrapper {
+    overflow: auto;
+    max-height: 500px;
+  }
+  
+  .user-table {
+    width: 100%; 
+    border-collapse: collapse;
+  }
+  
+  .user-table th, .user-table td {
+    padding: 8px;
+    border: 1px solid #ddd;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+  }
+  
+  .user-table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+  
